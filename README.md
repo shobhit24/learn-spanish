@@ -1,9 +1,9 @@
 # learn-spanish
 Main Activity
-https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/MainActivity.png
+![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/MainActivity.png)
 
 Family Activity
-https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/FamilyActivity.png
+![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/FamilyActivity.png)
 
 Numbers Activity
 https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/NumbersActivity.png
