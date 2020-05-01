@@ -6,10 +6,10 @@ Family Activity
 ![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/FamilyActivity.png)
 
 Numbers Activity
-https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/NumbersActivity.png
+![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/NumbersActivity.png)
 
 Colors Activity
-https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/ColorsActivity.png
+![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/ColorsActivity.png)
 
 Phrases Activity
-https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/PhrasesActivity.png
+![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/PhrasesActivity.png)
