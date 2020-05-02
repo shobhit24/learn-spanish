@@ -6,20 +6,20 @@
 # Screenshots
 - Main Activity
 
-![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/MainActivity.png)
+<img src="https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/MainActivity.png" width="200" height="400">
 
 - Family Activity
 
-![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/FamilyActivity.png)
+<img src="https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/FamilyActivity.png" width="200" height="400">
 
 - Numbers Activity
 
-![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/NumbersActivity.png)
+<img src="https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/NumbersActivity.png" width="200" height="400">
 
 - Colors Activity
 
-![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/ColorsActivity.png)
+<img src="https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/ColorsActivity.png" width="200" height="400">
 
 - Phrases Activity
 
-![alt text](https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/PhrasesActivity.png)
+<img src="https://github.com/shobhit24/learn-spanish/blob/master/Screenshots/PhrasesActivity.png" width="200" height="400">
