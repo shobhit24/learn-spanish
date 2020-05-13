@@ -1,7 +1,7 @@
 # learn-spanish
 - An android app which provides English to Spanish translation.
 - It consists four activities namely Colors, Numbers, Family & Phrases.
-- I created this project during my android nanodegree program at udacity.
+- I created this project during my Android Basics Nanodegree program at Udacity.
 
 # Screenshots
 - Main Activity
